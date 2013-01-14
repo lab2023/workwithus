@@ -1,10 +1,15 @@
 # Bizimle çalışmak ister misiniz?
 
-İş başvuruları için aşağıdaki adımları takip edebilirsiniz.
+İş ve stajer başvuruları için aşağıdaki adımları takip edebilirsiniz. **Teknik Görüşme** sürecine geldiğinizde 
+info at lab2023 dot com adresine konu ile ilgili bir email atmanız yeterli olacaktır. İlgili email aşağıdaki bilgileri
+içermelidir.
+
+* İletişim bilgileriniz
+* Varsa CV, Blog, Github, vb linkleriniz
+* Staj için mi İş Başvurusu için mi?
+* 2. , 3. , 4. , 5. adımlarda ki kodlarınızın bulunduğu github reposunun linki.
 
 ## 1. İngilizce
-
-Sorumlu: Onur Özgür ÖZKAN
 
 Aşağıdaki bağlantıda ki video, ses ve yazıları anlayacak kadar temel ingilizceye sahip olmak ön şarttır. 
 
@@ -18,8 +23,6 @@ Eğer anlıyorsanız anlıyorsunuzdur. Sizi sınav yapacak halimiz yok. İkinci 
 
 ## 2. Git & Github
 
-Sorumlu: Onur Özgür ÖZKAN
-
 Bizler versiyon kontrol git ve www.github.com kullanıyoruz. Temel git bilginiz olması gerekmektedir. Eğer git ve github'ın kullanımını bilmiyorsanız, 30 dakika ayırarak aşağıdaki kaynaklar işinizi görecektir.
 
 1. http://try.github.com/levels/1/challenges/1
@@ -27,15 +30,11 @@ Bizler versiyon kontrol git ve www.github.com kullanıyoruz. Temel git bilginiz 
 
 Sizden istediğimiz https://github.com/lab2023/workwithus/blob/master/pull_requests.rb adresinde ki hatalı olan kodları düzeltmeniz ve push request etmenizdir. Burada ki amaç yazılım bilginizi değil git ve github bilginizi ölçmektir.
 
-Eğer isminizin gözükmesini istemiyorsanız. tayfun.ozis.erikan@lab2023.com adresine başka bir repoya yaptığınız pull requestin linkini mail atabilirsiniz.
-
 ## 3. HTML JS CSS
 
 Sorumlu: Tayfun ÖZİŞ ERİKAN
 
 ## 4. Ruby
-
-Sorumlu: Onur Özgür ÖZKAN
 
 Bizler ağırlıklı olarak Ruby programlama dilini kullanıyoruz. Eğer Ruby bilmiyorsanız aşağıdaki kaynaklar tam sizin içindir.
 
@@ -47,15 +46,10 @@ https://github.com/lab2023/workwithus/blob/master/ruby_questions.md adresinde ki
 
 ## 5. Rails
 
-Sorumlu: Muhammet DİLEK
-
 ## 6. Teknik Görüşme
-
-Sorumlu: Tayfun ÖZİŞ ERİKAN
 
 ## 7. Son Görüşme
 
-Sorumlu: Onur Özgür ÖZKAN
 
 
 
