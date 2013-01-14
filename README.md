@@ -55,7 +55,7 @@ Bu görüşme Tayfun Öziş ERİKAN ile yapılacaktır. Teknik konuları içerme
 
 ## 7. Son Görüşme
 
-Bu görüşme Onur Özgür ÖZKAN ile yapılacaktır. Kurum kültürü konularını içermektedir.  Skype, Facetime veya GTalk üzerinden yapabilirsiniz.
+Bu görüşme Onur Özgür ÖZKAN ile yapılacaktır. Ortak çalışabilmemiz için kurum kültürü konularını içermektedir.  Skype, Facetime veya GTalk üzerinden yapabilirsiniz.
 
 
 
