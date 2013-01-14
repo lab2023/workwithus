@@ -37,8 +37,6 @@ Bu aşamada sizden istediğimiz https://github.com/lab2023/workwithus/blob/maste
 
 ## 3. HTML JS CSS
 
-Sorumlu: Tayfun ÖZİŞ ERİKAN
-
 ## 4. Ruby
 
 Bizler ağırlıklı olarak Ruby programlama dilini kullanıyoruz. Eğer Ruby bilmiyorsanız aşağıdaki kaynaklar tam sizin içindir.
@@ -47,13 +45,18 @@ Bizler ağırlıklı olarak Ruby programlama dilini kullanıyoruz. Eğer Ruby bi
 2. http://rubymonk.com/
 3. http://www.codecademy.com/tracks/ruby
 
-https://github.com/lab2023/workwithus/blob/master/ruby_questions.md adresinde ki soruların cevaplarını içeren github reposunun linkini başvuru mailine ekleyiniz.
+Bu aşamada sizden isteğimiz https://github.com/lab2023/workwithus/blob/master/ruby_questions.md adresinde ki soruların cevaplarını içeren github reposunun linkini başvuru mailine ekleyiniz.
 
 ## 5. Rails
 
 ## 6. Teknik Görüşme
 
+Bu görüşme Tayfun Öziş ERİKAN ile yapılacaktır. Teknik konuları içermektedir. Skype, Facetime veya GTalk üzerinden yapabilirsiniz.
+
 ## 7. Son Görüşme
+
+Bu görüşme Onur Özgür ÖZKAN ile yapılacaktır. Kurum kültürü konularını içermektedir.  Skype, Facetime veya GTalk üzerinden yapabilirsiniz.
+
 
 
 
