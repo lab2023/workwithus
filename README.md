@@ -39,6 +39,7 @@ Bizler ağırlıklı olarak Ruby programlama dilini kullanıyoruz. Eğer Ruby bi
 
 1. http://tryruby.org/
 2. http://rubymonk.com/
+3. http://www.codecademy.com/tracks/ruby
 
 Artık Ruby öğrendiğinize göre aşağıdaki problemleri çözebilirsiniz.
 
