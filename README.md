@@ -2,11 +2,11 @@
 
 İş başvuruları için aşağıdaki adımları takip edebilirsiniz.
 
-## İngilizce
+## 1. İngilizce
 
 Sorumlu: Onur Özgür ÖZKAN
 
-Aşağıdaki bağlantıda ki video, ses ve yazıları anlayacak kadar temel ingilizceye sahip olmak ön şarttır.
+Aşağıdaki bağlantıda ki video, ses ve yazıları anlayacak kadar temel ingilizceye sahip olmak ön şarttır. 
 
 * http://railscasts.com/episodes/400-what-s-new-in-rails-4?autoplay=true
 * http://news.php.net/php.internals/64770 
@@ -14,43 +14,49 @@ Aşağıdaki bağlantıda ki video, ses ve yazıları anlayacak kadar temel ingi
 * http://railscasts.com/episodes/390-turbolinks?autoplay=true
 * http://railscasts.com/episodes/390-turbolinks?view=asciicast
 
-## Git & Github
+Eğer anlıyorsanız anlıyorsunuzdur. Sizi sınav yapacak halimiz yok. İkinci aşamaya geçebilirsiniz.
+
+## 2. Git & Github
 
 Sorumlu: Onur Özgür ÖZKAN
 
-Bizler versiyon kontrol git ve www.github.com kullanıyoruz. Sizden istediğimiz XXXXX adresinde ki hatalı olan kodları düzeltmeniz
-ve push request etmenizdir.
-
-Eğer git ve github'ın kullanımını bilmiyorsanız. Aşağıdaki kaynaklar işinizi görecektir.
+Bizler versiyon kontrol git ve www.github.com kullanıyoruz. Temel git bilginiz olması gerekmektedir. Eğer git ve github'ın kullanımını bilmiyorsanız, 30 dakika ayırarak aşağıdaki kaynaklar işinizi görecektir.
 
 1. http://try.github.com/levels/1/challenges/1
-2. http://nvie.com/posts/a-successful-git-branching-model/
-3. http://git-scm.com/book
+2. http://gitcasts.com/
 
+Sizden istediğimiz XXXXX adresinde ki hatalı olan kodları düzeltmeniz ve push request etmenizdir.
 
-## HTML JS CSS
+## 3. HTML JS CSS
 
 Sorumlu: Tayfun ÖZİŞ ERİKAN
 
-## Ruby
+## 4. Ruby
 
 Sorumlu: Onur Özgür ÖZKAN
 
-Bizler ağırlıklı olarak Ruby programlama dilini kullanıyoruz. Aşağıdaki problemleri Ruby dilinde çözmenizi istiyoruz.
-
-Eğer Ruby bilmiyorsanız aşağıdaki kaynaklar tam sizin içindir.
+Bizler ağırlıklı olarak Ruby programlama dilini kullanıyoruz. Eğer Ruby bilmiyorsanız aşağıdaki kaynaklar tam sizin içindir.
 
 1. http://tryruby.org/
+2. http://rubymonk.com/
 
-## Rails
+Artık Ruby öğrendiğinize göre aşağıdaki problemleri çözebilirsiniz.
+
+Problem 1.
+
+Problem 2.
+
+Problem 3.
+
+## 5. Rails
 
 Sorumlu: Muhammet DİLEK
 
-## Teknik Görüşme
+## 6. Teknik Görüşme
 
 Sorumlu: Tayfun ÖZİŞ ERİKAN
 
-## Son Görüşme
+## 7. Son Görüşme
 
 Sorumlu: Onur Özgür ÖZKAN
 
