@@ -1,3 +1,5 @@
+Soruların bir tek doğru cevabı yoktur. Her soru için ayrı ayrı dosyada oluşturabilirsiniz.
+
 ## 1. Soru
 
 Aşağıda ki gibi bir arrayiniz olsun.
