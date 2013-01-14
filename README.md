@@ -27,6 +27,8 @@ Bizler versiyon kontrol git ve www.github.com kullanıyoruz. Temel git bilginiz 
 
 Sizden istediğimiz https://github.com/lab2023/workwithus/blob/master/pull_requests.rb adresinde ki hatalı olan kodları düzeltmeniz ve push request etmenizdir. Burada ki amaç yazılım bilginizi değil git ve github bilginizi ölçmektir.
 
+Eğer isminizin gözükmesini istemiyorsanız. tayfun.ozis.erikan@lab2023.com adresine başka bir repoya yaptığınız pull requestin linkini mail atabilirsiniz.
+
 ## 3. HTML JS CSS
 
 Sorumlu: Tayfun ÖZİŞ ERİKAN
