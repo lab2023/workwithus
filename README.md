@@ -25,7 +25,7 @@ Bizler versiyon kontrol git ve www.github.com kullanıyoruz. Temel git bilginiz 
 1. http://try.github.com/levels/1/challenges/1
 2. http://gitcasts.com/
 
-Sizden istediğimiz XXXXX adresinde ki hatalı olan kodları düzeltmeniz ve push request etmenizdir.
+Sizden istediğimiz https://github.com/lab2023/workwithus/blob/master/pull_requests.rb adresinde ki hatalı olan kodları düzeltmeniz ve push request etmenizdir. Burada ki amaç yazılım bilginizi değil git ve github bilginizi ölçmektir.
 
 ## 3. HTML JS CSS
 
