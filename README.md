@@ -43,13 +43,7 @@ Bizler ağırlıklı olarak Ruby programlama dilini kullanıyoruz. Eğer Ruby bi
 2. http://rubymonk.com/
 3. http://www.codecademy.com/tracks/ruby
 
-Artık Ruby öğrendiğinize göre aşağıdaki problemleri çözebilirsiniz.
-
-Problem 1.
-
-Problem 2.
-
-Problem 3.
+https://github.com/lab2023/workwithus/blob/master/ruby_questions.md adresinde ki soruların cevaplarını içeren github reposunun linkini başvuru mailine ekleyiniz.
 
 ## 5. Rails
 
