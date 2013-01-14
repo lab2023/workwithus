@@ -28,4 +28,6 @@ Bir .txt içinde ki yazıları okuyup ekrana basan bir kod yazınız. Dosya okum
 
 Aşağıdaki arrayi parametre olarak alan ve tek ve çift rakamları ayrı ayrı array olarak döndüren bir method yazınız.
 
+```ruby
 ints = [1,21,53,84,50,66,7,38,9]
+```
