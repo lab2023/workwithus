@@ -20,11 +20,11 @@ Write a program to find the largest integer in an array of integers.
 
 Write function to print the odd numbers from 1 to 99
 
-### 4. Soru
+## 4. Soru
 
 Write a program to open a file for reading and print out its entire contents
 
-### 5. Soru
+## 5. Soru
 
 Write a function to take the following list and return one list of odd numbers and one list of even numbers:
 
