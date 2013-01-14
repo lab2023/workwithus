@@ -1,31 +1,31 @@
 ## 1. Soru
 
-Suppose you have the following array
+Aşağıda ki gibi bir arrayiniz olsun.
 
 ```ruby
 stuff = [:dog,:cat,:orange,:banana]
 ```
 
-1. How can you slice this array to create a new array `[:cat,:orange]`
-2. Add the element `:apple` on to the end of the array.
-3. Now take  `:apple` back off again
-4. Add the element `:fish` to the start of the array.
-5. Now remove the element `:fish`.
+1. Slice methodu kullanarak  `[:cat,:orange]` şeklinde bir arrayi nasıl elde ederiz.
+2. Yeni arrayin sonuna `:apple` elementi ekleyelim.
+3. Yeni arrayin sonuna eklediğimiz `:apple` elementini kaldıralım.
+4. Yeni arrayin başına `:fish` elementi ekleyelim.
+5. Yeni arrayin başına eklediğimiz `:fish` elementini kaldıralım.
 
 ## 2. Soru
 
-Write a program to find the largest integer in an array of integers.
+Bir arrayin içinde ki maksimum tam sayıyı bulan bir method yazınız.
 
 ## 3. Soru
 
-Write function to print the odd numbers from 1 to 99
+1 ile 99 rakamları arasında ki tek sayıları listeleyen bir fonksiyon yazınız.
 
 ## 4. Soru
 
-Write a program to open a file for reading and print out its entire contents
+Bir .txt içinde ki yazıları okuyup ekrana basan bir kod yazınız. Dosya okuma işleminden sonra başka bir işlem yapılmayaktır!
 
 ## 5. Soru
 
-Write a function to take the following list and return one list of odd numbers and one list of even numbers:
+Aşağıdaki arrayi parametre olarak alan ve tek ve çift rakamları ayrı ayrı array olarak döndüren bir method yazınız.
 
 ints = [1,21,53,84,50,66,7,38,9]
