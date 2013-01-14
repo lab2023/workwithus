@@ -9,14 +9,6 @@ içermelidir.
 * Staj için mi İş Başvurusu için mi?
 * 2. , 3. , 4. , 5. adımlarda ki kodlarınızın bulunduğu github reposunun linki.
 
-## Staj başvurusu genel bilgi
-
-* Yaz boyunca Denizli'de ikamet etmek zorundadır. 
-* Tam gün mesai yaparlar. 
-* Ofiste çalışmalarına gerek yoktur. 
-* Bir tane programcıya bağlı çalışırlar.
-* Staj başvurusu için adımların hepsini bitirmek zorundadırlar.
-
 ## İş başvurusu için genel bilgi
 
 * Tam zamanlı, part time veya proje bazlı başvuru yapabilirler.
