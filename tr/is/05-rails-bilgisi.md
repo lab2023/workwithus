@@ -18,6 +18,7 @@ Daha sonra aşağıdaki listedeki gemleri araştırınız.
 * `bootstrap-datepicker-rails`
 * `bootstrap`
 
+### Rails Kurulumu ve Proje
 
 * Makinanıza Ruby On Rails' in son sürümünü kurun. Mümkünse makinanız bir linux dağıtımı olsun. Windows ortamında bu işler zor!.
 * lab2023 bünyesinde geliştirdiğimiz template' i kullanarak yeni bir proje oluşturunuz. https://github.com/lab2023/rails-template. Bu template' te yukarıdaki listedeki gemler kurulu halde gelecektir.
