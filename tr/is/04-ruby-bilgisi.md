@@ -39,7 +39,7 @@ b. Bu methodu Array sınıfına ekleyelim ve bütün arrayler için kullanabilel
 
 ## 4. Soru
 
-Bir .txt içinde ki yazıları okuyup ekrana basan bir kod yazınız. Dosya okuma işleminden sonra başka bir işlem yapılmayaktır!
+Bir .txt içinde ki yazıları okuyup ekrana basan bir kod yazınız. Dosya okuma işleminden sonra başka bir işlem yapılmayacaktır!
 
 ## 5. Soru
 
