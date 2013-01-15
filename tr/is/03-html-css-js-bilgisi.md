@@ -54,5 +54,6 @@ JavaScript'i diğer dillerden ayıran en belirgin özelliği nedir ?
 Twitter bootstrap kullanarak aşağıdakine *yakın* bir arayüz hazırlayınız. 
 Arayüzü sadece HTML olarak hazırlayın, ekstra bir CSS yada JavaScript kullanmanıza gerek yoktur.
 
+![](https://raw.github.com/lab2023/workwithus/5cccd3557ce39af5f02fd05989428de965934023/images/is/03-001.png)
 
 Bir sonraki aşamaya geçebilirsiniz.
