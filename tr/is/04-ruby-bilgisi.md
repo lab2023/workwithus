@@ -16,11 +16,11 @@ Aşağıda ki gibi bir dizimiz olsun.
 stuff = [:dog, :cat, :orange, :banana]
 ```
 
-a. Slice methodu kullanarak  `[:cat, :orange]` şeklinde bir arrayi nasıl elde ederiz.
-b. Yeni dizinin sonuna `:apple` elementi ekleyelim.
-c. Yeni dizinin sonuna eklediğimiz `:apple` elementini kaldıralım.
-d. Yeni dizinin başına `:fish` elementi ekleyelim.
-e. Yeni dizinin başına eklediğimiz `:fish` elementini kaldıralım.
+1. Slice methodu kullanarak  `[:cat, :orange]` şeklinde bir arrayi nasıl elde ederiz.
+2. Yeni dizinin sonuna `:apple` elementi ekleyelim.
+3. Yeni dizinin sonuna eklediğimiz `:apple` elementini kaldıralım.
+4. Yeni dizinin başına `:fish` elementi ekleyelim.
+5. Yeni dizinin başına eklediğimiz `:fish` elementini kaldıralım.
 
 ## 2. Soru
 
