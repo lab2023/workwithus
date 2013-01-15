@@ -30,8 +30,8 @@ Aşağıdaki gibi bir dizimiz olsun.
 ints = [1,21,53,84,50,66,7,38,9]
 ```
 
-a. Bu sizinin maksimum integer değerini bulan bir method yazalım.
-b. Bu methodu Array sınıfına ekleyelim ve bütün arrayler için kullanabilelim.
+1. Bu sizinin maksimum integer değerini bulan bir method yazalım.
+2. Bu methodu Array sınıfına ekleyelim ve bütün arrayler için kullanabilelim.
 
 ## 3. Soru
 
