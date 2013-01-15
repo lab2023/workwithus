@@ -14,6 +14,6 @@ Süreçler toplam 7 aşamalıdır.
 
 Bu süreçlerden 1-5 arasını kendiniz evinizde ofisinizde yapabilirsiniz. 6. ve 7. süreç geçmek için aşağıdaki bilgileri içeren bir emaili info at lab2023 dot com adresine mail atmanız gerekmektedir.
 
-a. İletişim bilginiz
-b. 2-5 arasında ki süreçler için yazdığınız kodları içeren github reposu veya repolarının linki
-c. Varsa CV, Blog, Github, vb linkler
+* İletişim bilginiz
+* 2-5 arasında ki süreçler için yazdığınız kodları içeren github reposu veya repolarının linki
+* Varsa CV, Blog, Github, vb linkler
