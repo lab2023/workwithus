@@ -51,17 +51,6 @@ Sınıfın ve ilgili methodun isminin önemi yoktur.
 JavaScript'i diğer dillerden ayıran en belirgin özelliği nedir ?
 
 #6. Soru
-Aşağıdaki kod neyi hesaplar ?
-```javascript
-function factorial(n) {
-    if (n == 0) {
-        return 1;
-    }
-    return n * factorial(n - 1);
-}
-```
-
-#7
 Twitter bootstrap kullanarak aşağıdakine *yakın* bir arayüz hazırlayınız. 
 Arayüzü sadece HTML olarak hazırlayın, ekstra bir CSS yada JavaScript kullanmanıza gerek yoktur.
 
