@@ -26,8 +26,9 @@ Daha sonra aşağıdaki listedeki gemleri araştırınız.
 Uygulamada; 
 
 * Kütüphane görevlisi tarafından sisteme kitap eklenilebilecek.
-* Daha sonra bu kitapların kullanıcıda mı yoksa kütüphanede mi olduğunu tutacak.
-
+* Daha sonra bu kitaplar kullanıcıya verilecek.
+* Kullanıcılar aldıkalrı kitapları arayüzden görebilecekler.
+* Kullanıcı kitabı teslim ettiğinde kütüphaneci teslim aldım diye işleyecek.
 #### Projenizdeki tablolar:
 ##### Book
 * name
@@ -38,6 +39,19 @@ Uygulamada;
 
 ##### Author
 * name
+
+##### User
+Template ile gelecek.
+* name
+* email
+* avatar yeterlidir.
+
+##### Admin
+Template ile gelecek.
+* name
+* email yeterlidir.
+
+Sisteme ihtiyacınız olan tabloları ve alanları ekleyebilirsiniz.
 
 Uygulamanızı github' a push edip linkini bize gönderiniz.
 Bir sonraki aşamaya geçebilirsiniz.
