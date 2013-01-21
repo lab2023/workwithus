@@ -29,7 +29,9 @@ Uygulamada;
 * Daha sonra bu kitaplar kullanıcıya verilecek.
 * Kullanıcılar aldıkalrı kitapları arayüzden görebilecekler.
 * Kullanıcı kitabı teslim ettiğinde kütüphaneci teslim aldım diye işleyecek.
+
 #### Projenizdeki tablolar:
+
 ##### Book
 * name
 * isbn
