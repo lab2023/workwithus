@@ -49,4 +49,4 @@ Aşağıdaki arrayi parametre olarak alan ve tek ve çift rakamları ayrı ayrı
 ints = [1,21,53,84,50,66,7,38,9]
 ```
 
-Bir sonraki aşamaya geçebilirsiniz.
+[Bir sonraki aşamaya geçebilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/is/05-rails-bilgisi.md)
