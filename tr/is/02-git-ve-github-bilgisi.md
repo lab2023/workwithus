@@ -7,4 +7,4 @@ Bizler versiyon kontrol git ve www.github.com kullanıyoruz. Temel git bilginiz 
 
 Bu aşamada sizden istediğimiz https://github.com/lab2023/workwithus/blob/master/pull_requests.rb adresinde ki hatalı olan kodları düzeltmeniz ve push request yapmanızdır. Burada ki amaç yazılım bilginizi değil git ve github bilginizi ölçmektir.
 
-Bir sonraki aşamaya geçebilirsiniz.
+[Bir sonraki aşamaya geçebilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/is/03-html-css-js-bilgisi.md)
