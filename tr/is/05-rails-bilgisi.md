@@ -56,4 +56,5 @@ Template ile gelecek.
 Sisteme ihtiyacınız olan tabloları ve alanları ekleyebilirsiniz.
 
 Uygulamanızı github' a push edip linkini bize gönderiniz.
-Bir sonraki aşamaya geçebilirsiniz.
+
+[Bir sonraki aşamaya geçebilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/is/06-teknik-gorusme.md)
