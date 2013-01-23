@@ -1,6 +1,6 @@
 # Rails Bilgisi
 
-Bu bölümde sizden bir kütüphane uygulamsı geliştirmenizi isteyeceğiz. Bu uygulama temel veritabanı işlemlerini ve Ruby on Rails' e yatkınlığınızı ölçmektedir.
+Bu bölümde sizden bir kütüphane uygulaması geliştirmenizi isteyeceğiz. Bu uygulama temel veritabanı işlemlerini ve Ruby on Rails' e yatkınlığınızı ölçmektedir.
 Rails kurulumuna ve projeye başlamadan önce şu kaynaklardan Ruby On Rails hakkında bilgi edinmeniz gerekebilir.
 
 * Rails Guides http://guides.rubyonrails.org/index.html
