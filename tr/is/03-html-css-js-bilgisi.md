@@ -58,4 +58,4 @@ Arayüzü sadece HTML olarak hazırlayın, ekstra bir CSS yada JavaScript kullan
 
 *Yukarıdaki bazi soruların çözümlerini bizimle paylaşmak için http://jsfiddle.net/ adresinden faydalanabilirsiniz.*
 
-Bir sonraki aşamaya geçebilirsiniz.
+[Bir sonraki aşamaya geçebilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/is/04-ruby-bilgisi.md)
