@@ -8,4 +8,6 @@ Aşağıdaki bağlantıda ki video, ses ve yazıları anlayacak kadar temel ingi
 * http://railscasts.com/episodes/390-turbolinks?autoplay=true
 * http://railscasts.com/episodes/390-turbolinks?view=asciicast
 
-Eğer anlıyorsanız anlıyorsunuzdur. Sizi sınav yapacak halimiz yok. Bir sonraki aşamaya geçebilirsiniz.
+Eğer anlıyorsanız anlıyorsunuzdur. Sizi sınav yapacak halimiz yok. 
+
+[Bir sonraki aşamaya geçebilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/is/02-git-ve-github-bilgisi.md)
