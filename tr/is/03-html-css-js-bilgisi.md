@@ -13,7 +13,7 @@ Konuyla ilgilişkili kullanılan yan teknolojiler ve framework (uygulama çatıl
 * Twitter Bootstrap - http://twitter.github.com/bootstrap/
 * Sencha Ext JS - http://www.sencha.com/products/extjs/
 
-Mobil teknolojiler için native uygulamalar yerine hibrit uygulamalar gelştirmekteyiz. Bu sebepten aşağıdaki teknolojileri kullanmaktayız.
+Mobil teknolojiler için native uygulamalar yerine hibrit uygulamalar geliştirmekteyiz. Bu sebepten aşağıdaki teknolojileri kullanmaktayız.
 * Sencha Touch - http://www.sencha.com/products/touch/
 * Sencha Cmd - http://www.sencha.com/products/sencha-cmd/download 
 * Sencha.io - http://www.sencha.com/products/io/
