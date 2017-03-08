@@ -7,7 +7,7 @@
 ### Bizi ve kurum kültürümüzü tanıyın
 Bizimle staj sürecine başlamadan önce Lab2023'ü tanımanız, kurum kültürümüz hakkında fikir sahibi olmanız ve sizden beklentilerimizi anlamanız staj sürecinizin verimli geçmesi açısından önemlidir. 
 
-Başvuru sürecinizde yönelteceğimiz sorulardan birisi "Lab2023'ü yeterince tanıyor musunuz, bizi bize bir anlatır mısınız?" olacaktır. Bu sebeple  tanışma veya görüşmeye gelmeden önce bizi araştırmanızı ve Lab2023 hakkında ön bilgi ve fikir sahibi olmanızı bekliyoruz.
+Başvuru sürecinizde yönelteceğimiz sorulardan birisi "Lab2023'ü yeterince tanıyor musunuz, bize bizi anlatır mısınız?" olacaktır. Bu sebeple  tanışma veya görüşmeye gelmeden önce bizi araştırmanızı ve Lab2023 hakkında ön bilgi ve fikir sahibi olmanızı bekliyoruz.
 
 Bu aşamadan sonra önceki yıllarda yayınlamış olduğumuz aşağıdaki linkte bulunan blog yazımızı okuyarak beklentilerimiz hakkında deperlendirme yapınız ve ilgili formu doldurarak sizi daha iyi tanıyabilmemizi sağlayınız.
 
