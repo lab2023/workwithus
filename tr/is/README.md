@@ -1,6 +1,6 @@
 # Bizimle çalışmak ister misiniz?
 
-lab2023 - internet teknolojileri olarak iş başvurularını aşağıdaki süreçlere göre yapıyoruz.
+lab2023 - bilişim teknolojileri olarak iş başvurularını aşağıdaki süreçlere göre yapıyoruz.
 
 Süreçler toplam 7 aşamalıdır.
 
@@ -12,7 +12,8 @@ Süreçler toplam 7 aşamalıdır.
 6. Teknik görüşme
 7. Son görüşme
 
-Bu süreçlerden 1-5 arasını kendiniz evinizde ofisinizde yapabilirsiniz. 6. ve 7. süreç geçmek için aşağıdaki bilgileri içeren bir emaili info at lab2023 dot com adresine mail atmanız gerekmektedir.
+Bu süreçlerden 1-5 arasını kendiniz evinizde ofisinizde yapabilirsiniz. 6. ve 7. süreç geçmek için aşağıdaki bilgileri 
+içeren bir emaili `hello at lab2023 dot com` adresine mail atmanız gerekmektedir.
 
 * İletişim bilginiz
 * 2-5 arasında ki süreçler için yazdığınız kodları içeren github reposu veya repolarının linki
