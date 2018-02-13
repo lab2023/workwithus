@@ -1,5 +1,9 @@
 
 #### [Current]
+ * [64d6d72](../../commit/64d6d72) - __(Tayfun Öziş ERİKAN)__ Unused information was removed
+
+#### v0.2.1
+ * [10da176](../../commit/10da176) - __(Tayfun Öziş ERİKAN)__ Bump version v0.2.1
  * [f9a1510](../../commit/f9a1510) - __(Tayfun Öziş ERİKAN)__ Document was improved
  * [22523bd](../../commit/22523bd) - __(Tayfun Öziş ERİKAN)__ Missing link was added
 

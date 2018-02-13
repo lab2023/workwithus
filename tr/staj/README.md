@@ -18,17 +18,6 @@ hakkında değerlendirme yapınız ve ilgili formu doldurarak sizi daha iyi tan�
 
 ## Gereklilikler
 
-### Katılımcılar için ön-şartlar
-
-* Temel ruby bilgisine sahip olmak
-* Web teknolojileri konusunda bilgi sahibi olmak (HTTP, HTML, CSS, JS, SSL, GET/POST, Cookie, vs)
-* OOP: Object-oriented programming – Nesne yönelimli programlama bilgisine sahip olmak
-* Başka bir dilde MVC, ORM tasarım şablonlarını kullanan frameworkler kullanmış olmak
-* Herhangi bir VCS kullanmış olmak ve tercihen Git biliyor olmak
-* Bir GitHub hesabına sahip olmak
-* Temel bash kabuğu bilgisine sahip olmak ve en azından chmod, tail, nano veya vim gibi temel konsol
-araçları basit düzeyde kullanabiliyor olmak.
-
 ### İngilizce bilgisi
 
 Aşağıdaki linklerde ki kaynakları anlayacak kadar temel ingilizceniz olmalıdır. Bu seviyede ingilizceniz yoksa lütfen 
