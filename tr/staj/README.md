@@ -3,13 +3,11 @@
 Web geliştirme, mobil geliştirme ve tasarım alanlarında kendisini geliştirmek isteyen ve sürekli öğrenmeye açık kişilerin 
 staj başvurularını kabul ediyoruz. Kullandığımız teknolojileri biliyor olmanız başvuru süreçlerinde bir artı olarak değerlendirilecektir. 
 
-## Gereklilikler
-
 ### Bizi ve kurum kültürümüzü tanıyın
 Bizimle staj sürecine başlamadan önce Lab2023'ü tanımanız, kurum kültürümüz hakkında fikir sahibi olmanız ve sizden 
 beklentilerimizi anlamanız staj sürecinizin verimli geçmesi açısından önemlidir. 
 
-Başvuru sürecinizde yönelteceğimiz sorulardan birisi "Lab2023'ü yeterince tanıyor musunuz, bize bizi anlatır mısınız?" 
+Başvuru sürecinizde yönelteceğimiz sorulardan birisi `Lab2023'ü yeterince tanıyor musunuz, bize bizi anlatır mısınız?` 
 olacaktır. Bu sebeple  tanışma veya görüşmeye gelmeden önce bizi araştırmanızı ve Lab2023 hakkında ön bilgi ve fikir 
 sahibi olmanızı bekliyoruz.
 
@@ -17,6 +15,19 @@ Bu aşamadan sonra önceki yıllarda yayınlamış olduğumuz aşağıdaki linkt
 hakkında değerlendirme yapınız ve ilgili formu doldurarak sizi daha iyi tanıyabilmemizi sağlayınız.
 
 * http://lab2023.com/2014-yili-ruby-on-rails-staj-programi.html
+
+## Gereklilikler
+
+### Katılımcılar için ön-şartlar
+
+* Temel ruby bilgisine sahip olmak
+* Web teknolojileri konusunda bilgi sahibi olmak (HTTP, HTML, CSS, JS, SSL, GET/POST, Cookie, vs)
+* OOP: Object-oriented programming – Nesne yönelimli programlama bilgisine sahip olmak
+* Başka bir dilde MVC, ORM tasarım şablonlarını kullanan frameworkler kullanmış olmak
+* Herhangi bir VCS kullanmış olmak ve tercihen Git biliyor olmak
+* Bir GitHub hesabına sahip olmak
+* Temel bash kabuğu bilgisine sahip olmak ve en azından chmod, tail, nano veya vim gibi temel konsol
+araçları basit düzeyde kullanabiliyor olmak.
 
 ### İngilizce bilgisi
 
@@ -29,21 +40,16 @@ başvuru yapmayınız çünkü sizin ile paylaşılacak kaynaklar bu ve benzeri 
 * http://railscasts.com/episodes/390-turbolinks?autoplay=true
 * http://railscasts.com/episodes/390-turbolinks?view=asciicast
 
-### Geliştirme ortamınızı hazırlayınız
-
-Staj başvurusuna gelmeden önce lütfen geliştirme ortamını hazırlayınız.
-
-* İngilizce Ubuntu linux dağıtımını bilgisayarınıza kurunuz.
-* OSX kullanıyorsanız mevcut işletim sisteminizi kullanmaya devam edebilirsiniz.
-* Yoksa bir github.com hesabı edininiz.
-* Geliştirme ortamınızı https://github.com/lab2023/builder adresinde belirtilen standartlarımıza uygun olarak hazırlayınız.
-
-### Ön hazırlık yapın
+### Ön hazırlık ve geliştirme ortamı
 
 Aşağıdaki eğitim serilerini staj başvurusundan önce bitiriniz.
 
-* http://try.github.com/
-* http://tryruby.org/
+* 30–40 dk sürecek http://tryruby.org serisini tamamlayınız.
+* 15–20 dk sürecek http://try.github.io serisini tamamlayınız.
+* Geliştirme ortamlarının hazırlanması. Bu işlem için aşağıdaki adımları takip edebilirsiniz.
+  * Ubuntu GNU/Linux dağıtımını http://www.ubuntu.com/download/desktop adresinden bilgisayarınıza kurmak.
+  * Eğer Ubuntu kuracaksanız, performans problemleri yaşamamak için işletim sistemini, sanal makine yerine, bilgisayarınızın herhangi bir bölümüne kurmanız önerilir.
+  * Ubuntu veya OS X için https://github.com/lab2023/builder adresinde bulunan bash kurulum scripti’ni kullanınız.
 
 ## Başvuru
 
@@ -52,7 +58,8 @@ Aşağıdaki eğitim serilerini staj başvurusundan önce bitiriniz.
   http://lab2023.com/2014-yili-ruby-on-rails-staj-programi.html
 * Sizin hakkınızda bilgi edinebilmemiz için ilgili dönemde yayınladığımız başvuru formunu doldurunuz ve bizi 
   `hello at lab2023.com` mail adresimiz aracılığı ile bilgilendiriniz.
-* Sonrasında sizinle yüz yüze görüşmek için ofise davet edeceğiz veya video konferans görüşmesi için takvim belirleyeceğiz.
+* Sonrasında sizinle yüz yüze görüşmek için ofise davet edeceğiz veya video konferans görüşmesi gerçekleştiremek için
+  bir takvim belirleyeceğiz.
 * Diğer sorularınız için `hello at lab2023.com` adresine email gönderebilirsiniz.
 
 ## Süreç
@@ -65,5 +72,5 @@ Aşağıdaki eğitim serilerini staj başvurusundan önce bitiriniz.
   herhangi bir "Hello World" uygulaması oluşturunuz.
 * Bu aşamadan sonra oluşturduğunuz başlangıç ödevinizi GitHub veya BitBucket hesabınıza yükleyiniz ve depo adresini bize
   `hello at lab2023.com` adresimiz üzerinden bildiriniz.
-* Sonraki aşamada tarafınıza iletilecek **Cybele** üzerine gerçekleştirilecek örnek projeyi tamamlayınız.
+* Sonraki aşamada tarafınıza iletilecek ödevi **Cybele** kullaranak tamamlayınız.
   Bu projenin ilerleyişi ile ilgili daha detaylı olarak yüz yüze görüsme sırasında bilgilendirileceksiniz.

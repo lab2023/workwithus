@@ -18,3 +18,5 @@ içeren bir emaili `hello at lab2023 dot com` adresine mail atmanız gerekmekted
 * İletişim bilginiz
 * 2-5 arasında ki süreçler için yazdığınız kodları içeren github reposu veya repolarının linki
 * Varsa CV, Blog, Github, vb linkler
+
+[Buradan başlayın](https://github.com/lab2023/workwithus/blob/master/tr/is/01-temel-ingilizce-bilgisi.md)
