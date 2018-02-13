@@ -1,5 +1,10 @@
 
 #### [Current]
+ * [f9a1510](../../commit/f9a1510) - __(Tayfun Öziş ERİKAN)__ Document was improved
+ * [22523bd](../../commit/22523bd) - __(Tayfun Öziş ERİKAN)__ Missing link was added
+
+#### v0.1.2
+ * [6b0bd17](../../commit/6b0bd17) - __(Tayfun Öziş ERİKAN)__ Bump versio v0.1.2
  * [2f9e44c](../../commit/2f9e44c) - __(Tayfun Öziş ERİKAN)__ Typo fixed
 
 #### v0.1.1
