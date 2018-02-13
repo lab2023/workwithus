@@ -8,7 +8,7 @@ Bizler ön-yüz teknolojileri olarak aşağıdaki ana teknolojileri kullanıyoru
 Konuyla ilgilişkili kullanılan yan teknolojiler ve framework (uygulama çatıları) ise aşağıdaki gibidir.
 * HAML - http://haml.info/
 * Sass - http://sass-lang.com/
-* Compass - http://compass-style.org/
+* Autoprefixer - https://github.com/postcss/autoprefixer
 * CoffeeScript - http://coffeescript.org/
 * Twitter Bootstrap - http://twitter.github.com/bootstrap/
 * Sencha Ext JS - http://www.sencha.com/products/extjs/
