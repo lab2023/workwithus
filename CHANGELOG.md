@@ -1,7 +1,9 @@
 
 #### [Current]
+ * [5fc081b](../../commit/5fc081b) - __(Tayfun Öziş ERİKAN)__ Internship process were updated
 
-#### 
+#### v0.1.0
+ * [9eb532c](../../commit/9eb532c) - __(Tayfun Öziş ERİKAN)__ Bump version v0.1.0
  * [cd56317](../../commit/cd56317) - __(Tayfun Öziş ERİKAN)__ Job and internship application processes were updated
  * [8ecb211](../../commit/8ecb211) - __(Tayfun Öziş ERİKAN)__ Typo fixed
  * [04dc5b9](../../commit/04dc5b9) - __(Tayfun Öziş ERİKAN)__ Typo fixed
