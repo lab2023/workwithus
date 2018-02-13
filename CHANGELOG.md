@@ -1,5 +1,9 @@
 
 #### [Current]
+ * [116d658](../../commit/116d658) - __(Tayfun Öziş ERİKAN)__ Document was improved
+
+#### v.0.2.2
+ * [9848d5e](../../commit/9848d5e) - __(Tayfun Öziş ERİKAN)__ Bump version v0.2.2
  * [64d6d72](../../commit/64d6d72) - __(Tayfun Öziş ERİKAN)__ Unused information was removed
 
 #### v0.2.1
