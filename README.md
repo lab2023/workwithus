@@ -2,9 +2,8 @@
 
 ## İş başvuru süreci
 
-[İş başvuru sürecine buradan başlayabilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/is/01-temel-ingilizce-bilgisi.md)
+[İş başvuru sürecine buradan başlayabilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/is/README.md)
 
 ## Staj süreci
 
-[Staj başvuru sürecine buradan başlayabilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/staj/01-staj-basvurusu.md)
-
+[Staj başvuru sürecine buradan başlayabilirsiniz.](https://github.com/lab2023/workwithus/blob/master/tr/staj/README.md)

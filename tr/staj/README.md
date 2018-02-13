@@ -1,6 +1,7 @@
 # Genel Tanımlar
 
-Şu an için sadece Ruby ve Ruby on Rails konusunda kendisini geliştirmek isteyen arkadaşların staj başvusunu kabul ediyoruz.
+Öncelikli olarak Ruby ve Ruby on Rails konusunda kendisini geliştirmek isteyen ancak diğer alanlarda da tecrübe sahibi olmuş
+kendisini geliştirmek isteyen ve sürekli öğrenmeye açık kişilerin staj başvurularını kabul ediyoruz.
 
 ## Gereklilikler
 
@@ -9,7 +10,7 @@ Bizimle staj sürecine başlamadan önce Lab2023'ü tanımanız, kurum kültür�
 
 Başvuru sürecinizde yönelteceğimiz sorulardan birisi "Lab2023'ü yeterince tanıyor musunuz, bize bizi anlatır mısınız?" olacaktır. Bu sebeple  tanışma veya görüşmeye gelmeden önce bizi araştırmanızı ve Lab2023 hakkında ön bilgi ve fikir sahibi olmanızı bekliyoruz.
 
-Bu aşamadan sonra önceki yıllarda yayınlamış olduğumuz aşağıdaki linkte bulunan blog yazımızı okuyarak beklentilerimiz hakkında deperlendirme yapınız ve ilgili formu doldurarak sizi daha iyi tanıyabilmemizi sağlayınız.
+Bu aşamadan sonra önceki yıllarda yayınlamış olduğumuz aşağıdaki linkte bulunan blog yazımızı okuyarak beklentilerimiz hakkında değerlendirme yapınız ve ilgili formu doldurarak sizi daha iyi tanıyabilmemizi sağlayınız.
 
 * http://lab2023.com/2014-yili-ruby-on-rails-staj-programi.html
 
@@ -28,7 +29,9 @@ Aşağıdaki linklerde ki kaynakları anlayacak kadar temel ingilizceniz olmalı
 Staj başvurusuna gelmeden önce lütfen geliştirme ortamını hazırlayınız.
 
 * İngilizce Ubuntu linux dağıtımını bilgisayarınıza kurunuz.
-* Bir github.com hesabı edininiz.
+* OSX kullanıyorsanız mevcut işletim sisteminizi kullanmaya devam edebilirsiniz.
+* Yoksa bir github.com hesabı edininiz.
+* Geliştirme ortamınızı https://github.com/lab2023/builder adresinde belirtilen standartlarımıza uygun olarak hazırlayınız.
 
 ### Ön hazırlık yapın
 
@@ -39,9 +42,14 @@ Aşağıdaki eğitim serilerini staj başvurusundan önce bitiriniz.
 
 ## Başvuru
 
-* `hello at lab2023.com` adresine email atınız.
+* Staj ve IK politikalarımız hakkında fikir sahibi olmak için önceki yıllarda yayınlamış olduğumuz konu ile ilgili şu blog yazımızı okuyunuz ve belirttiğimiz kriterlere uyup uymadığınızı değerlendiriniz:
+http://lab2023.com/2014-yili-ruby-on-rails-staj-programi.html
+* Sizin hakkınızda bilgi edinebilmemiz için ilgili dönemde yayınladığımız başvuru formunu doldurunuz ve bizi `hello at lab2023.com` mail adresimiz aracılığı ile bilgilendiriniz.
+* Daha önce başvuru yapmış olan adaylar 
+* Sonrasında sizinle yüz yüze görüşmek için ofise davet edeceğiz veya video konferans görüşmesi için takvim belirleyeceğiz.
+* Diğer sorularınız için `hello at lab2023.com` adresine email gönderebilirsiniz.
 
 ## Süreç
 
-* Her stajere bir mentor atanacaktır. 
+* Her stajyere bir mentor atanacaktır. 
 * Mentorlar stajerlere haftalık eğitim için video, makale ve yapması için ödev verecektir.
