@@ -1,5 +1,9 @@
 
 #### [Current]
+ * [2f9e44c](../../commit/2f9e44c) - __(Tayfun Öziş ERİKAN)__ Typo fixed
+
+#### v0.1.1
+ * [5544846](../../commit/5544846) - __(Tayfun Öziş ERİKAN)__ Bump version v0.1.1
  * [5fc081b](../../commit/5fc081b) - __(Tayfun Öziş ERİKAN)__ Internship process were updated
 
 #### v0.1.0
