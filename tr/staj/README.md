@@ -23,16 +23,18 @@ hakkında değerlendirme yapınız ve ilgili formu doldurarak sizi daha iyi tan�
 Aşağıdaki linklerde ki kaynakları anlayacak kadar temel ingilizceniz olmalıdır. Bu seviyede ingilizceniz yoksa lütfen 
 başvuru yapmayınız çünkü sizin ile paylaşılacak kaynaklar bu ve benzeri kaynaklardır.
 
+* http://rubyonrails.org/doctrine
+* https://stimulusjs.org/handbook/origin
 * http://railscasts.com/episodes/400-what-s-new-in-rails-4?autoplay=true
-* http://news.php.net/php.internals/64770
-* http://news.ycombinator.com/item?id=5033899
 * http://railscasts.com/episodes/390-turbolinks?autoplay=true
 * http://railscasts.com/episodes/390-turbolinks?view=asciicast
+
 
 ### Ön hazırlık ve geliştirme ortamı
 
 Aşağıdaki eğitim serilerini staj başvurusundan önce bitiriniz.
 
+* Rails Doctrin'i okuyunuz http://rubyonrails.org/doctrine
 * 30–40 dk sürecek http://tryruby.org serisini tamamlayınız.
 * 15–20 dk sürecek http://try.github.io serisini tamamlayınız.
 * Geliştirme ortamlarının hazırlanması. Bu işlem için aşağıdaki adımları takip edebilirsiniz.
