@@ -52,7 +52,6 @@ Aşağıdaki eğitim serilerini staj başvurusundan önce bitiriniz.
   http://lab2023.com/2014-yili-ruby-on-rails-staj-programi.html
 * Sizin hakkınızda bilgi edinebilmemiz için ilgili dönemde yayınladığımız başvuru formunu doldurunuz ve bizi 
   `hello at lab2023.com` mail adresimiz aracılığı ile bilgilendiriniz.
-* Daha önce başvuru yapmış olan adaylar 
 * Sonrasında sizinle yüz yüze görüşmek için ofise davet edeceğiz veya video konferans görüşmesi için takvim belirleyeceğiz.
 * Diğer sorularınız için `hello at lab2023.com` adresine email gönderebilirsiniz.
 
