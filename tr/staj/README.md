@@ -11,7 +11,7 @@ Başvuru sürecinizde yönelteceğimiz sorulardan birisi `Lab2023'ü yeterince t
 olacaktır. Bu sebeple  tanışma veya görüşmeye gelmeden önce bizi araştırmanızı ve Lab2023 hakkında ön bilgi ve fikir 
 sahibi olmanızı bekliyoruz.
 
-Bu aşamadan sonra önceki yıllarda yayınlamış olduğumuz aşağıdaki linkte bulunan blog yazımızı okuyarak beklentilerimiz 
+Bu aşamadan sonra önceki yıllarda yayımlamış olduğumuz aşağıdaki linkte bulunan blog yazımızı okuyarak beklentilerimiz 
 hakkında değerlendirme yapınız ve ilgili formu doldurarak sizi daha iyi tanıyabilmemizi sağlayınız.
 
 * http://lab2023.com/2014-yili-ruby-on-rails-staj-programi.html
@@ -44,11 +44,10 @@ Aşağıdaki eğitim serilerini staj başvurusundan önce bitiriniz.
 
 ## Başvuru
 
-* Staj ve IK politikalarımız hakkında fikir sahibi olmak için önceki yıllarda yayınlamış olduğumuz konu ile ilgili şu 
+* Staj ve IK politikalarımız hakkında fikir sahibi olmak için önceki yıllarda yayımlamış olduğumuz konu ile ilgili şu 
   blog yazımızı okuyunuz ve belirttiğimiz kriterlere uyup uymadığınızı değerlendiriniz: 
   http://lab2023.com/2014-yili-ruby-on-rails-staj-programi.html
-* Sizin hakkınızda bilgi edinebilmemiz için ilgili dönemde yayınladığımız başvuru formunu doldurunuz ve bizi 
-  `hello at lab2023.com` mail adresimiz aracılığı ile bilgilendiriniz.
+* Sizin hakkınızda bilgi edinebilmemiz için ilgili dönemde yayımladığımız başvuru formunu doldurunuz ve bizi `hello at lab2023.com` mail adresimiz aracılığı ile bilgilendiriniz.
 * Sonrasında sizinle yüz yüze görüşmek için ofise davet edeceğiz veya video konferans görüşmesi gerçekleştiremek için
   bir takvim belirleyeceğiz.
 * Diğer sorularınız için `hello at lab2023.com` adresine email gönderebilirsiniz.
