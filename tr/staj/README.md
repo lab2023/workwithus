@@ -54,7 +54,7 @@ Aşağıdaki eğitim serilerini staj başvurusundan önce bitiriniz.
 
 ## Süreç
 
-* Süreç boyunca her stajyere bir mentör atanacaktır. 
+* Süreç boyunca her stajyere bir mentor atanacaktır. 
 * Size atanan mentörünüzden belirli ölçüde sorularınıza cevap alabileceksiniz.
 * Mentörler stajerlere haftalık eğitim için video, makale ve yapması için ödev verecektir ve ödevlerini kontrol edecektir.
 * Başlangıç olarak, Lab2023 tararından geliştirilmiş ve üretim süreçlerimizde kullandığımız 
